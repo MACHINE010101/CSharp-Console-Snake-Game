@@ -1,0 +1,5 @@
+D:\MyApps\SnakeGame V1\Snake Game.exe
+D:\MyApps\SnakeGame V1\Snake Game.dll
+D:\MyApps\SnakeGame V1\Snake Game.deps.json
+D:\MyApps\SnakeGame V1\Snake Game.runtimeconfig.json
+D:\MyApps\SnakeGame V1\Snake Game.pdb
