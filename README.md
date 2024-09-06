@@ -1,5 +1,5 @@
 # C# Snake Console Game
-
+### Author: Eduard Pascale
 ## Snake Game
 
 This is a classic Snake game built in C# that runs in the console. It provides a simple and fun gaming experience where the player controls a snake to eat food and grow longer without hitting the walls or itself.
